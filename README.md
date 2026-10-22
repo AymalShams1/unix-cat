@@ -50,4 +50,4 @@ This is an educational implementation, not a full replacement for the Unix `cat`
 
 ## License
 
-No license has been specified yet.
+MIT License.
